@@ -105,7 +105,7 @@ h1 {
 
 .experiencia .columna {
   padding: 20px;
-  border: 2px solid #8080804d;
+  border: 2px solid #c92eb5;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -115,13 +115,13 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #1b1b32;
+  background-color: #9287d6;
 }
 
 .experiencia i {
   font-size: 2.5rem;
   color: #7ade30;
-  background-color: #0a0a23;
+  background-color: #9287d6;
   padding: 8px 19px;
   border-radius: 50%;
 }
