@@ -85,14 +85,14 @@ h1 {
   color: #615151;
 }
 
-/* Sobre mi */
+/* Mi-misión */
 
-.sobre-mi {
+.mi-misión {
   height: 500px;
   padding: 10px;
 }
 
-.sobre-mi .contenedor {
+.mi-misión .contenedor {
   max-width: 600px;
   text-align: center;
 }
