@@ -103,7 +103,7 @@ h1 {
 }
 
 .mi-mision .text {
-    color: white;
+    color: #ffffff !important; /*CAMBIAR COLOR A ESTO*/
   }
 
 /* Experiencia */
