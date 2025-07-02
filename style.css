@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #f5f6f7;
+  background-color: #106861;
 }
 
 .navbar-collapse {
@@ -24,9 +24,10 @@ h1 {
   font-family: 'Rubik Dirt', cursive;
 }
 
+<!-- Fondo de Conoce a Lore y pie de página -->
 .seccion-oscura {
-  color: white;
-  background-color: #f5f6f7;
+  color: green;
+  background-color: #106861;
 }
 
 .seccion-clara {
