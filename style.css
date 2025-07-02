@@ -24,7 +24,7 @@ h1 {
   font-family: 'Rubik Dirt', cursive;
 }
 
-/*Esta es la sección que edita el  color de pie de p+agina y Conoce a Lore*/
+/*Esta es la sección que edita el  color de pie de página y Mi  misión*/
 .seccion-oscura {
   color: green;
   background-color: #106861;
@@ -357,7 +357,7 @@ footer {
 
 .derechos-de-autor {
   font-size: 15px;
-  color: #aeaeae;
+  color: #ffffff;
   padding: 20px;
 }
 
