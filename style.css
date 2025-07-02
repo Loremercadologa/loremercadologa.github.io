@@ -102,9 +102,13 @@ h1 {
   text-align: center;
 }
 
-.mi-mision .text {
-    color: #ffffff !important; /*CAMBIAR COLOR A ESTO*/
+<style> /* BORRAR SI NO JALA*/
+  #mi-mision {
+    color: white;
   }
+</style>
+
+<h1 id="mi-mision">Este título es blanco.</h1>
 
 /* Experiencia */
 
