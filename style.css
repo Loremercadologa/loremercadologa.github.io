@@ -95,11 +95,13 @@ h1 {
 .mi-mision {
   height: 500px;
   padding: 10px;
+  color: #ffffff;
 }
 
 .mi-mision .contenedor {
   max-width: 600px;
   text-align: center;
+  color: #ffffff;
 }
 
 /* Experiencia */
