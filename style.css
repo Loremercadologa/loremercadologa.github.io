@@ -97,18 +97,14 @@ h1 {
   padding: 10px;
 }
 
+.mi-mision. text {
+color: white; /*NORRAR SI NO JALA SOLO ESTe códido 100 al 102*/
+}
+
 .mi-mision .contenedor {
   max-width: 600px;
   text-align: center;
 }
-
-<style> /* BORRAR SI NO JALA*/
-  #mi-mision {
-    color: white;
-  }
-</style>
-
-<h1 id="mi-mision">Este título es blanco.</h1>
 
 /* Experiencia */
 
