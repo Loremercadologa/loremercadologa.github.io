@@ -10,6 +10,10 @@
   justify-content: space-between;  
 }
 
+.navbar-light .navbar-nav .nav-link {
+  color: #ffffff !important; /* Un color blanco */
+}
+
 /* Estilos generales */
 
 section {
