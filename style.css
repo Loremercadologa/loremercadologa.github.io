@@ -92,22 +92,10 @@ h1 {
 
 /* Mi misión */
 
-<style> /*BORRAR SI NO JALA SOLO ESTe códido 100 al 102*/
-  #mi-mision {
-    color: white;
-  }
-</style>
-
-.mi-mision {
-  height: 500px;
-  padding: 10px;
-}
-
-<h1 id="mi-mision">Este título es blanco.</h1> /*BORRAR SI NO JALA SOLO ESTe códido 100 al 102*/
-
 .mi-mision .contenedor {
   max-width: 600px;
   text-align: center;
+  color: white;
 }
 
 /* Experiencia */
