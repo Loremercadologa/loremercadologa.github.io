@@ -44,7 +44,7 @@ h1 {
   font-size: 2rem;
   padding: 15px 0;
   font-family: 'Rubik Dirt', cursive;
-  color: #ffffff; /*BORRAR LINEA SI NO JALA*/
+  color: #ffffff; /*TITULO MI MISIÓN*/
 }
 
 .seccion-descripcion {
@@ -54,7 +54,7 @@ h1 {
 
 .seccion-texto {
   font-size: 1.2rem;
-  color: #ffffff; /*BORRAR LINEA SI NO JALA*/
+  color: #ffffff; /*PARRAFO MI MISIÓN*/
   
 }
 
