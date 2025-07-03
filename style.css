@@ -129,7 +129,7 @@ color: white; /*NORRAR SI NO JALA SOLO ESTe códido 100 al 102*/
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #7ade30;
+  color: #ffffff; /*Está línea era la de la letra verde,se cambio a blanco*/
   background-color: #0a0a23;
   padding: 8px 19px;
   border-radius: 50%;
