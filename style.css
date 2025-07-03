@@ -29,6 +29,7 @@ h1 {
 }
 
 /*Esta es la sección que edita el  color de pie de página y Mi  misión*/
+
 .seccion-oscura {
   color: green;
   background-color: #106861;
@@ -43,6 +44,7 @@ h1 {
   font-size: 2rem;
   padding: 15px 0;
   font-family: 'Rubik Dirt', cursive;
+  color: #ffffff; /*BORRAR LINEA SI NO JALA*/
 }
 
 .seccion-descripcion {
@@ -52,6 +54,8 @@ h1 {
 
 .seccion-texto {
   font-size: 1.2rem;
+  color: #ffffff; /*BORRAR LINEA SI NO JALA*/
+  
 }
 
 .btn-info {
@@ -95,7 +99,6 @@ h1 {
 .mi-mision .contenedor {
   max-width: 600px;
   text-align: center;
-  color: white;
 }
 
 /* Experiencia */
