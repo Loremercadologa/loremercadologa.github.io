@@ -403,9 +403,23 @@ footer {
   }
 }
 
- .typeString {
-  color: #000000 !important; /* Cambiar elcolor del typing de java */
+/* Cambiar elcolor del typing de java */
 }
+<h2 class="text-primary mb-4" id="typewriter"></h2>
+
+document.getElementById("text-primary mb-4"), 
+element.style.color. 
+
+{
+    texto.style.color = 'black';
+  }
+
+
+
+
+
+
+
 
 
 
