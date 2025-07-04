@@ -404,14 +404,9 @@ footer {
 }
 
 /* Cambiar elcolor del typing de java */
-}
-<h2 class="text-primary mb-4" id="typewriter"></h2>
 
-document.getElementById("typewriter"), 
-element.style.color. 
-
-{
-    texto.style.color = 'black';
+.typewriter {
+  color: = 'black';
   }
 
 
