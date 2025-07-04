@@ -32,12 +32,12 @@ h1 {
 
 .seccion-oscura {
   color: green;
-  background-color: #106861;
+  background-color: #106861; /*FONDO AZUL DE LA  SECCION DE EXPERIENCIA*/
 }
 
 .seccion-clara {
   color: black;
-  background-color: white;
+  background-color: white; /*SOSPECHO QUE ES EL COLOR NEGRO DE LOS CIRCULITOS DE EXPERIENCIA*/
 }
 
 .seccion-titulo {
@@ -49,7 +49,7 @@ h1 {
 
 .seccion-descripcion {
   font-size: 1.2rem;
-  color: #584e4e;
+  color: #584e4e; /*PARRAFO DE MI MISIÓN*/
 }
 
 .seccion-texto {
