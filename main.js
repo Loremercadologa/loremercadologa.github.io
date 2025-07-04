@@ -10,6 +10,6 @@ typewriter
   .typeString('Brindo asesoría a negocios y desarrollo proyectos de mercadotecnia para emprendedores y empresas.')/**Poner a que me dedico poner algo corto */
   .pauseFor(200)
   .deleteChars(10)
+ .color = 'red';
   .start();
 
-texto.style.color = 'red';
